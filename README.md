@@ -1,4 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/nchxc0q7c6wcw4k0/branch/main?svg=true)](https://ci.appveyor.com/project/KorzunE/autojava6/branch/main)
-
-- время, затраченное на ручное тестирование (минут): 6;
-- время, затраченное на автоматизацию (минут): 200.
+![image](https://github.com/KorzunE/AutoJava9/assets/145035972/d4355d75-8249-480e-8246-1fb8e0f60cce)
